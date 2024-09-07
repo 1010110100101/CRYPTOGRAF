@@ -1,0 +1,25 @@
+
+•
+java:S2095›"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê¹‰©øÿÿÿÿ8›©“Ç€2J$4978c27a-8460-494b-affe-5fcd37afcbef
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(±ßÑüşÿÿÿÿ8©“Ç€2J$7d993bcc-2dfd-4c5f-9401-39e9752238d6
+m	java:S106"+Replace this use of System.out by a logger.(‹ ù8Ÿ©“Ç€2J$6a12996e-e51a-4340-9755-61d9011f627c
+r	java:S106"+Replace this use of System.out by a logger.(Õü÷ìüÿÿÿÿ8 ©“Ç€2J$7f161a50-f8c0-4298-95a6-a93caf1e0e22
+r	java:S106"+Replace this use of System.out by a logger.(ƒ¬ÓÆûÿÿÿÿ8 ©“Ç€2J$66499f4b-56f7-462f-8870-feab8b284e6c
+m	java:S106("+Replace this use of System.out by a logger.(‹ ù8¡©“Ç€2J$e943d59d-b6e1-408e-bd3c-18d1ea2f09ee
+r	java:S1062"+Replace this use of System.out by a logger.(Ú·‘ùÿÿÿÿ8¢©“Ç€2J$a7c79533-7e2a-4fb5-a276-13dbb65d2537
+r	java:S106;"+Replace this use of System.out by a logger.( ×¼µùÿÿÿÿ8¢©“Ç€2J$d50c6715-b1de-4496-935a-5b84284f0d3e
+m	java:S106?"+Replace this use of System.out by a logger.(‚Şµß8¢©“Ç€2J$2b856d50-8e2b-4f59-b85e-2de7d36d0e01
+r	java:S106F"+Replace this use of System.out by a logger.(Ö°äµşÿÿÿÿ8£©“Ç€2J$65f34a6b-4f1c-492f-9085-ab24510f31f4
+r	java:S106K"+Replace this use of System.out by a logger.(Õü÷ìüÿÿÿÿ8£©“Ç€2J$0604b49e-a387-4a39-b872-4794b85b0de4
+m	java:S106U"+Replace this use of System.out by a logger.(®…—8¤©“Ç€2J$f238f2dc-a298-409e-ac2c-76d03da4b8b2
+r	java:S106]"+Replace this use of System.out by a logger.(ÄóÆÀüÿÿÿÿ8¤©“Ç€2J$8a07491d-01d1-4cb4-9fa1-4975c322537c
+m	java:S106g"+Replace this use of System.out by a logger.(®…—8¥©“Ç€2J$1564d113-bb68-42a6-9ddd-e59c20ab3688
+r	java:S106m"+Replace this use of System.out by a logger.(¬Á·ÿÿÿÿÿ8¥©“Ç€2J$795a96fe-b1af-4096-b6d7-19247755cee0
+m	java:S106u"+Replace this use of System.out by a logger.(Ëàæ¹8¦©“Ç€2J$490c6c7c-bfd1-4c33-a92a-90426737f1be
+m	java:S106y"+Replace this use of System.out by a logger.(—á„Œ8¦©“Ç€2J$a3bdd9dd-93cd-429a-820b-58e2f38d5633
+s	java:S106ˆ"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8§©“Ç€2J$404176f7-2fb7-413c-bcf6-e0a87809f163
+Š	java:S899—"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ª©“Ç€2J$4b90c495-1b9a-4a38-b1a4-b85e750b7097
+s	java:S106 "+Replace this use of System.err by a logger.(âµşÂùÿÿÿÿ8«©“Ç€2J$f096b2a2-a711-473d-a177-98f7449ccfd1
+„
+java:S1854®";Remove this useless assignment to local variable "newText".(á ¼‚ûÿÿÿÿ8¬©“Ç€2J$96777974-18e1-47e4-b36a-8af47b3e039d

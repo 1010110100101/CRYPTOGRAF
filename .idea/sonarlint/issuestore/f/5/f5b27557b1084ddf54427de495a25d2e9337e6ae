@@ -1,0 +1,52 @@
+
+Î
+java:S1192""ŠDefine a constant instead of duplicating this literal "\"real/file/path\" - Ğ´ĞµĞ¹ÑÑ‚Ğ²Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿ÑƒÑ‚ÑŒ Ğº Ñ„Ğ°Ğ¹Ğ»Ñƒ." 3 times.(ößäæ8‘°Û–2J$c7a696e7-c944-4460-99db-640e2bd2a708
+¦
+java:S1104"^Make PROGRAM_START_INFO a static final constant or non-public and provide accessors if needed.(âË€»úÿÿÿÿ8’°Û–2J$aa3f223a-9388-4527-a20d-f8b3db6c0b2b
+
+java:S1104"[Make INPUT_FILE_DEMO a static final constant or non-public and provide accessors if needed.(ïš…¼8’°Û–2J$dc0e7c2f-08a6-4f5b-94fe-eff2223553c6
+›
+java:S1104"XMake CRYPTED_FILE a static final constant or non-public and provide accessors if needed.(şò¡8’°Û–2J$3daa4e2c-26ac-4d50-b1fd-a2b896b6583b
+¢
+java:S1104
+"ZMake OPEN_FILE_DEMO a static final constant or non-public and provide accessors if needed.(ıãÑùÿÿÿÿÿ8’°Û–2J$67ae1aa5-7543-42fa-b9a8-36383bbda283
+¢
+java:S1104"ZMake UNCRYPTED_FILE a static final constant or non-public and provide accessors if needed.(øå“’ùÿÿÿÿ8’°Û–2J$c86a2181-7cd1-4394-b4b9-c7af92072541
+€
+java:S1444"8Make this "public static PROGRAM_START_INFO" field final(âË€»úÿÿÿÿ8“°Û–2J$fd855a9b-a0b5-46f5-8802-13236e51f391
+x
+java:S1444"5Make this "public static INPUT_FILE_DEMO" field final(ïš…¼8“°Û–2J$e04445b5-53ed-4c3a-890c-3e0fa221ada0
+u
+java:S1444"2Make this "public static CRYPTED_FILE" field final(şò¡8“°Û–2J$a94c864e-4e65-47e0-bb5e-4711283a3d26
+|
+java:S1444
+"4Make this "public static OPEN_FILE_DEMO" field final(ıãÑùÿÿÿÿÿ8“°Û–2J$4b449e64-351f-4e36-86ae-4247da3be3b6
+|
+java:S1444"4Make this "public static UNCRYPTED_FILE" field final(øå“’ùÿÿÿÿ8“°Û–2J$fc921d1c-7412-4967-a6a1-40b456d9fa79
+¥
+java:S3008"]Rename this field "PROGRAM_START_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âË€»úÿÿÿÿ8•°Û–2J$dd5dcbef-82f1-4f4a-aa34-50d3e9e03bb5
+
+java:S3008"ZRename this field "INPUT_FILE_DEMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïš…¼8•°Û–2J$6dbd757c-c2bb-417a-9ad9-b8c2b16eb345
+š
+java:S3008"WRename this field "CRYPTED_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şò¡8•°Û–2J$9aa7852e-0956-41ef-a54c-b4fb5e4fd37b
+¡
+java:S3008
+"YRename this field "OPEN_FILE_DEMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıãÑùÿÿÿÿÿ8•°Û–2J$dd8f20c9-3c1c-4a76-adb7-1c1bf11a0415
+¡
+java:S3008"YRename this field "UNCRYPTED_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øå“’ùÿÿÿÿ8•°Û–2J$6b9f7297-b0cd-4550-9324-720c040555c5
+}
+java:S1118":Add a private constructor to hide the implicit public one.(•„Ÿ°8—°Û–2J$5ad54771-e0b6-42fa-af8b-1d613e943fc0
+u
+java:S6126"2Replace this String concatenation with Text block.(Ó°Â8™°Û–2J$79d982be-0b5e-447c-992a-4d86fd99271b
+z
+java:S6126"2Replace this String concatenation with Text block.(ÑÇî…ùÿÿÿÿ8™°Û–2J$179e8a68-2241-49e1-94fe-9f136e8fe917
+z
+java:S6126 "2Replace this String concatenation with Text block.(éí°†øÿÿÿÿ8™°Û–2J$4f3e7c9a-81a3-4a6f-bf7f-67ccb3844709
+u
+java:S6126$"2Replace this String concatenation with Text block.(¡õó»8™°Û–2J$7f98dfa9-a9e2-4040-8bd3-105f5f8163c9
+u
+java:S6126("2Replace this String concatenation with Text block.(¢òŞ©8™°Û–2J$c09fe9e8-dbd1-4d8a-9843-936af1318cd1
+u
+java:S6126,"2Replace this String concatenation with Text block.(ıášÉ8™°Û–2J$0a79bf6f-0dca-4403-bd89-fc336c846822
+u
+java:S61260"2Replace this String concatenation with Text block.(É—‡ì8™°Û–2J$96b3df6e-ea7a-4636-a0bc-5d0dd7465463

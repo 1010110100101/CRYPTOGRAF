@@ -1,0 +1,114 @@
+
+¶
+java:S1192i"nDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ¿Ñ€Ğ¸ Ñ‡Ñ‚ĞµĞ½Ğ¸Ğ¸ Ñ„Ğ°Ğ¹Ğ»Ğ°: " 6 times.(òÍÛøşÿÿÿÿ8ßùõÁ€2J$b4740f60-22e1-4ca9-9304-35d85a34aab3
+Ù
+java:S1192Ó"•Define a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ´Ğ¾ÑÑ‚ÑƒĞ¿Ğ° Ğº Ñ„Ğ°Ğ¹Ğ»Ñƒ. Ğ£ĞºĞ°Ğ¶Ğ¸Ñ‚Ğµ Ğ´ĞµĞ¹ÑÑ‚Ğ²Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğ¹ Ğ¿ÑƒÑ‚ÑŒ Ğº Ñ„Ğ°Ğ¹Ğ»Ñƒ, Ğ¸Ğ»Ğ¸ Ğ½Ğ°Ğ¶Ğ¼Ğ¸Ñ‚Ğµ ĞºĞ»Ğ°Ğ²Ğ¸ÑˆÑƒ 'q' Ğ´Ğ»Ñ Ğ·Ğ°Ğ²ĞµÑ€ÑˆĞµĞ½Ğ¸Ñ Ñ€Ğ°Ğ±Ğ¾Ñ‚Ñ‹ Ğ¿Ñ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñ‹." 3 times.(™ºÍi8àùõÁ€2J$ff573909-0b33-415f-b254-3e3c5b628e39
+·
+java:S1192…"nDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ¿Ñ€Ğ¸ Ñ‡Ñ‚ĞµĞ½Ğ¸Ğ¸ Ğ²Ğ²Ğ¾Ğ´Ğ°: " 7 times.(ãƒÙÒşÿÿÿÿ8àùõÁ€2J$a482be71-a06c-455d-9397-7754aeb34747
+ 	java:S135v"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8áùõÁ€2J$9ee36c4c-1d24-4f48-a6fa-b8cab8ff557b
+¡	java:S135š"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8áùõÁ€2J$a13d9d95-a3f1-4faf-874f-89a6f0645d97
+¡	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8áùõÁ€2J$09c48636-6d34-4e33-bbe9-badc34bbf470
+¡	java:S135ë"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8èùõÁ€2J$c2e5f303-a968-49ed-907f-30883e36848f
+¡	java:S135”"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8èùõÁ€2J$8456bffb-be5c-4b6a-b615-eaaae9684b5a
+¡	java:S135½"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8èùõÁ€2J$12567a6f-101d-4f07-b1c1-e5cf104cce3f
+¡	java:S135ç"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8èùõÁ€2J$74bd40a0-9003-411a-a086-f29ab71ba378
+}
+java:S1141w"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8éùõÁ€2J$0e998bfd-16f8-4fc9-8a37-aa53a8800fe9
+~
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8éùõÁ€2J$5e21a5d9-df64-46a7-aa3b-a24e2fd32423
+~
+java:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êùõÁ€2J$fdf9c036-b8fb-4b28-b548-f0cba84d898e
+~
+java:S1141ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êùõÁ€2J$aec0a365-7da1-4f8d-a7bd-169834328572
+~
+java:S1141•"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êùõÁ€2J$1c83f3f4-e99d-442b-ad55-1de5acd23028
+~
+java:S1141¾"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êùõÁ€2J$535e5d95-f0dd-4c25-afb5-8592705e629e
+~
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8êùõÁ€2J$20944e2f-9cde-40a7-a813-a5127c131603
+z
+java:S1153ù"1Directly append the argument of String.valueOf().(Ášİâüÿÿÿÿ8îùõÁ€2J$8abfe444-0dcb-401d-8cd1-24fa9cd42632
+z
+java:S1153„"1Directly append the argument of String.valueOf().(´¿Â÷üÿÿÿÿ8ğùõÁ€2J$7b0e6b61-9a0f-4b03-b62b-a5ec6cd031e9
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(à½Çıÿÿÿÿ8øúõÁ€2J$d8414b1b-4f19-43a0-9088-013449ad4b98
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(£¸Îøÿÿÿÿ8úúõÁ€2J$58cfea11-6802-43e6-9d26-7c5eb9ccdcd0
+”
+java:S1871<"LThis branch's code block is the same as the block for the branch on line 53.(ÒÌâ–øÿÿÿÿ8¤—˜—2J$a5e861d2-ef00-4697-8f8a-1f5244fad326
+p	java:S108J")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ÊêŸÈ€2J$f6d24e13-77aa-40a4-aa14-44765681d522
+r	java:S106U"+Replace this use of System.out by a logger.(‡ëøåøÿÿÿÿ8ûõÁ€2J$ac02e22b-3458-4738-8db6-f1e1848f4e1e
+r	java:S106V"+Replace this use of System.out by a logger.(áİ´Îÿÿÿÿÿ8ûõÁ€2J$6cb08fa7-6810-4523-af91-e6eed8f0865f
+m	java:S106W"+Replace this use of System.out by a logger.(ÍêÎ‹8‚ûõÁ€2J$940c444f-72fa-452a-aee2-ff1d3156cc56
+r	java:S106Z"+Replace this use of System.out by a logger.(äÎÖıÿÿÿÿ8‚ûõÁ€2J$ade961cd-e392-4f0c-8b46-d232340285ec
+m	java:S106e"+Replace this use of System.out by a logger.(ù§é8ƒûõÁ€2J$231cb7ee-25e9-4850-aba3-010aa043473b
+r	java:S106i"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8„ûõÁ€2J$05c5842d-b91a-4584-95c0-921664370e11
+m	java:S106r"+Replace this use of System.out by a logger.(ÒúÓ²8…ûõÁ€2J$ca4cd197-b49d-4e81-a7c1-0b2d644b1917
+m	java:S106s"+Replace this use of System.out by a logger.(¬¨ÂÚ8‡ûõÁ€2J$42b3f62e-01fc-4196-862a-7cb381d539e3
+
+java:S1871}"MThis branch's code block is the same as the block for the branch on line 121.(Î±¥8‹ûõÁ€2J$c749f8fa-815e-4852-a84c-cfd0d818db9c
+s	java:S106‚"+Replace this use of System.out by a logger.(èˆ²ıÿÿÿÿ8ŒûõÁ€2J$ddf04b3a-9d16-4ec0-8c7a-de2ecbc45e2d
+s	java:S106…"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8ûõÁ€2J$4e3fbe9e-e33b-45b5-9ca5-6e4ca4084379
+s	java:S106Š"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8ûõÁ€2J$c0119f5a-7832-418c-908d-cac4c950af3a
+s	java:S106"+Replace this use of System.out by a logger.(ÎÊ³›üÿÿÿÿ8ûõÁ€2J$3d41148e-00e3-46e4-b26b-668b51cdb02a
+s	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ûõÁ€2J$9b6bf5cf-baea-4e22-a88e-bd8023ed6bb3
+n	java:S106–"+Replace this use of System.out by a logger.(ù‰ª8ûõÁ€2J$74dc9397-66a1-4f28-a5ac-cdb4ee3ce525
+n	java:S106—"+Replace this use of System.out by a logger.(¬¨ÂÚ8’ûõÁ€2J$7b6f231d-5006-4743-be24-c0f948c5d405
+
+java:S1871¦"MThis branch's code block is the same as the block for the branch on line 162.(½À—%8•ûõÁ€2J$02b90cef-f834-48a6-bfff-93d70fb09634
+n	java:S106ª"+Replace this use of System.out by a logger.(ÌÂ˜¤8—ûõÁ€2J$523fb054-451d-4225-a7d8-984e8c2dd30b
+s	java:S106­"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8—ûõÁ€2J$85701e5a-eaf3-4a36-835a-a4903a11b435
+s	java:S106²"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8˜ûõÁ€2J$731433f7-8ddc-4636-b8eb-14d649aca1ad
+s	java:S106µ"+Replace this use of System.out by a logger.(µ€¤‚şÿÿÿÿ8˜ûõÁ€2J$e8243488-dbc5-4d90-8b64-8d9c9e0ca21b
+s	java:S106¶"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8˜ûõÁ€2J$b420cd09-9f03-4683-bb60-cfcfe3524773
+n	java:S106¾"+Replace this use of System.out by a logger.(”ıİË8œûõÁ€2J$2d26e887-9230-4f51-9fee-ddbbc506ee41
+n	java:S106¿"+Replace this use of System.out by a logger.(¬¨ÂÚ8ûõÁ€2J$e20f015b-1c16-4ec1-a27f-0232f5e8887d
+–
+java:S1871Î"MThis branch's code block is the same as the block for the branch on line 202.(ıÉ’Ğûÿÿÿÿ8ûõÁ€2J$c8d9903c-ee92-495c-983b-27c64f61c13c
+m	java:S106Ó"+Replace this use of System.out by a logger.(™ºÍi8ŸûõÁ€2J$41311988-2f12-49e1-b999-36fe4e1d93b5
+s	java:S106Ö"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8ŸûõÁ€2J$0985f2ee-7f8e-4ee8-a8ba-4d8b7773179e
+s	java:S106Û"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8ŸûõÁ€2J$c9c3f2e0-5d1c-4ed5-8163-977b1757e7f0
+n	java:S106Ş"+Replace this use of System.out by a logger.(®Şò«8ŸûõÁ€2J$6d4e075f-ec31-44b9-979e-0aedea2fdc3a
+s	java:S106ß"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8 ûõÁ€2J$2bfd09c9-2d80-446e-a5a4-4713ea8e6976
+n	java:S106ç"+Replace this use of System.out by a logger.(öıõ”8¡ûõÁ€2J$5eb2ae59-7728-4841-bdba-c13a65fb4b53
+n	java:S106è"+Replace this use of System.out by a logger.(¬¨ÂÚ8¡ûõÁ€2J$4dc40de6-bcb6-46c6-a57e-a4a494f51dc1
+‘
+java:S1871÷"MThis branch's code block is the same as the block for the branch on line 238.(€şé8¡ûõÁ€2J$cc43c4d2-7195-488d-b562-e6c632acd61b
+s	java:S106ó"+Replace this use of System.out by a logger.(¥£ÿÿÿÿÿ8¢ûõÁ€2J$d57d958b-6e8f-4e14-a0a8-bf0f04aa4c0b
+m	java:S106ü"+Replace this use of System.out by a logger.(™ºÍi8¢ûõÁ€2J$69d161a2-6851-4bb4-a201-de8c0b9e1d40
+s	java:S106ÿ"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8¢ûõÁ€2J$667887fd-db1f-428e-b325-6c2070dacc95
+n	java:S106„"+Replace this use of System.err by a logger.(ˆïØË8£ûõÁ€2J$a881aa42-a1cb-4247-a70e-b616cda7a5a8
+s	java:S106‡"+Replace this use of System.out by a logger.(Ç×œ¿úÿÿÿÿ8£ûõÁ€2J$704a41c0-61a1-4ea9-9073-ce8016e2b3f6
+s	java:S106ˆ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8£ûõÁ€2J$176c2728-198d-4744-a1e1-72f79d6bdb0b
+n	java:S106"+Replace this use of System.out by a logger.(¦­±Õ8¥ûõÁ€2J$5c70b35e-3864-47bd-bc5b-bf6392dce27a
+n	java:S106‘"+Replace this use of System.out by a logger.(¬¨ÂÚ8¦ûõÁ€2J$92ba1b3f-0ece-48d0-81f6-88752fc94578
+–
+java:S1871 "MThis branch's code block is the same as the block for the branch on line 284.(ıÉ’Ğûÿÿÿÿ8ªûõÁ€2J$98524fd8-a1e6-4704-951a-9f68b3519bee
+m	java:S106¥"+Replace this use of System.out by a logger.(™ºÍi8­ûõÁ€2J$19b80996-9757-4329-b8d1-452e8b7c7ae4
+s	java:S106¨"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8­ûõÁ€2J$2c3b679b-0107-464e-ba99-efcf9c0471ed
+s	java:S106­"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8­ûõÁ€2J$6a5b10e6-b05f-4fbf-b329-c0592044068a
+s	java:S106°"+Replace this use of System.out by a logger.(ìÒªÚÿÿÿÿÿ8®ûõÁ€2J$56141f82-0e9d-45d1-9045-82ea9cabf7f1
+s	java:S106±"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8®ûõÁ€2J$0cf8fbc3-9467-477c-8b21-1fafc12fd07d
+n	java:S106¹"+Replace this use of System.out by a logger.(‹§ÑÃ8¯ûõÁ€2J$f7434227-1efa-4e57-a936-6048ff5f1a7d
+n	java:S106º"+Replace this use of System.out by a logger.(¬¨ÂÚ8¯ûõÁ€2J$42176ffc-b278-4fd2-9e16-b5a58c43b412
+‘
+java:S1871Ê"MThis branch's code block is the same as the block for the branch on line 321.(å€Ÿ¤8°ûõÁ€2J$45a9221f-e2d6-4d98-951a-7a40153efe3e
+s	java:S106Æ"+Replace this use of System.out by a logger.(Ë—ş“ıÿÿÿÿ8°ûõÁ€2J$96d7f23e-0ccd-4f41-9697-3e6af2ab93b8
+s	java:S106Ï"+Replace this use of System.out by a logger.(¤İâùÿÿÿÿ8°ûõÁ€2J$83923858-a358-41ea-874a-090b6dda456f
+s	java:S106Ò"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8±ûõÁ€2J$09a01e4f-0394-43ca-9dcf-fd6ff11e438e
+s	java:S106×"+Replace this use of System.err by a logger.(òÍÛøşÿÿÿÿ8±ûõÁ€2J$a0132d24-6a74-42b1-b9dd-93636d80832e
+n	java:S106Ú"+Replace this use of System.out by a logger.(Ä•Öÿ8±ûõÁ€2J$db0f95bb-13b0-4851-86d6-94efc3e29e81
+s	java:S106Û"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8±ûõÁ€2J$0d570c11-3261-4229-9ed6-4ba78bb24d56
+n	java:S106ã"+Replace this use of System.out by a logger.(’½©ë8²ûõÁ€2J$2de480c3-ba55-407b-8f3d-00f00510444e
+n	java:S106ä"+Replace this use of System.out by a logger.(¬¨ÂÚ8³ûõÁ€2J$e023485f-4ecd-40a2-9136-170d181c33aa
+‘
+java:S1871ô"MThis branch's code block is the same as the block for the branch on line 363.(ºîóÕ8´ûõÁ€2J$b8ad261d-d7a5-4a1e-b66f-488e3ede546d
+s	java:S106ğ"+Replace this use of System.out by a logger.(¸ƒãœûÿÿÿÿ8´ûõÁ€2J$38358b1d-c46b-4daa-af06-75c14d4ebb74
+b
+java:S2119ñ"Save and re-use this "Random".(åÒ™µ8·ûõÁ€2J$e15c8e83-9ed0-414d-8260-1c8d3edbb51c
+s	java:S106ù"+Replace this use of System.out by a logger.(Ášİâüÿÿÿÿ8¹ûõÁ€2J$3d638bd8-8567-4332-afac-4c3aa575ab96
+s	java:S106ü"+Replace this use of System.err by a logger.(ãƒÙÒşÿÿÿÿ8ºûõÁ€2J$68b75e08-6acb-4097-a875-83f35191d644
+s	java:S106"+Replace this use of System.err by a logger.(ğ•òèøÿÿÿÿ8»ûõÁ€2J$8e23f4e2-1423-4872-afb7-75554ddf81b5
+s	java:S106„"+Replace this use of System.out by a logger.(´¿Â÷üÿÿÿÿ8»ûõÁ€2J$d22346ce-3dad-4b03-843c-5b5cc89989da
+s	java:S106…"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¼ûõÁ€2J$ca5bdb5e-5c3f-403b-a6ab-3999912fdb7d
+t
+java:S1144m",Remove this unused private "setMode" method.(ñ¬¸êûÿÿÿÿ8¼ûõÁ€2J$fd2c4b27-4a8a-4464-9a53-b19a4a84fbed
